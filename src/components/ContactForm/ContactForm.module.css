@@ -15,7 +15,6 @@
     display: flex;
     flex-direction: column;
     gap: 24px;
-    align-self: flex-start;
 }
 
 .contact_form form {
